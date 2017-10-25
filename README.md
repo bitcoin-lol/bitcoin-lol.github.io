@@ -19,7 +19,7 @@ Bitcoin LOLはLOL Difficulty Adjustmentというぶっこわれアルゴリズ�
 [Implement LOL difficulty adjustment](https://github.com/bitcoin-lol/bitcoin/pull/1)
 
 これは「ハードフォーク以降、採掘難易度を常に最低値で固定する」というものです。
-…これによいくらマイナーが増えても難易度は一切上がらず、
+これによいくらマイナーが増えても難易度は一切上がらず、
 すべての人に採掘のチャンスがあり続けることになります！
 さあ、芝刈り機で芝を刈るようにガンガン採掘しよう！
 
@@ -59,6 +59,6 @@ Bitcoinのフォークって、やろうと思えば私みたいなふざけた�
 すべてを理解するのは難しいこともあるでしょう。
 より安全な資産、Fiatや他の暗号通貨に移すことも選択肢としてありだと思います。
 私が作ったお粗末なBitcoinもどきのようなものに騙されないように。
-みなさんが楽しい暗号通貨ライフをおくれるようお祈りしております。
+みなさんが楽しい暗号通貨ライフをおくれるようお祈りしています。
 
-Enjoy your life with cryptocurrencies!
+Enjoy your life with your favorite cryptocurrencies!
